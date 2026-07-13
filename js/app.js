@@ -81,7 +81,7 @@ function splitDash(item) {
 
 function renderGeneral(md) {
   const s = parseSettings(md);
-  const title = s.title || "Конференция";
+  const title = s.title || "Konferenz";
   const fullTitle = s.year ? `${title} ${s.year}` : title;
   document.title = fullTitle;
   $("nav-brand").textContent = title;
@@ -198,8 +198,8 @@ function renderGallery(md) {
   const blocks = parseBlocks(md);
   const paths = blocks.filter(b => b.type === "ul").flatMap(b => b.items);
   $("gallery-grid").innerHTML = paths.map(p =>
-    `<div class="gallery-item"><img src="${p}" alt="Фото конференции"
-       onerror="this.parentElement.textContent='[ФОТО]'"></div>`).join("");
+    `<div class="gallery-item"><img src="${p}" alt="Konferenzfoto"
+       onerror="this.parentElement.textContent='[FOTO]'"></div>`).join("");
 }
 
 function renderAbout(md) {

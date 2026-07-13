@@ -1,20 +1,20 @@
-# Стоимость
+# Kosten
 
-## Без проживания
+## Ohne Übernachtung
 
-| Категория | Стоимость |
+| Kategorie | Preis |
 | --- | --- |
-| Участник конференции | [ЦЕНА] |
-| Жёны участников* | [ЦЕНА] |
-| Гость на один день | [ЦЕНА] |
+| Konferenzteilnehmer | [PREIS] |
+| Ehefrauen* | [PREIS] |
+| Tagesgast | [PREIS] |
 
-## С проживанием
+## Mit Übernachtung
 
-> Обратите внимание: количество мест с проживанием ограничено ([ТИП РАЗМЕЩЕНИЯ]).
+> Hinweis: Nur begrenzt Plätze mit Übernachtung verfügbar ([ART DER UNTERKUNFT]).
 
-| Категория | Стоимость |
+| Kategorie | Preis |
 | --- | --- |
-| Участник конференции | [ЦЕНА] |
-| Жёны участников* | [ЦЕНА] |
+| Konferenzteilnehmer | [PREIS] |
+| Ehefrauen* | [PREIS] |
 
-\* [Примечание об условиях участия для жён.]
+\* [Hinweis zu den Teilnahmebedingungen für Ehefrauen.]

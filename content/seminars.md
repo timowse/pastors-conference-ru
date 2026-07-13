@@ -1,12 +1,12 @@
-# Спикеры семинаров
+# Seminarsprecher
 
-## Русский
-- [Имя спикера] — [Тема семинара]
-- [Имя спикера] — [Тема семинара]
-- [Имя спикера] — [Тема семинара]
-- [Имя спикера] — [Тема семинара]
+## Deutsch
+- [Name des Sprechers] — [Thema des Seminars]
+- [Name des Sprechers] — [Thema des Seminars]
+- [Name des Sprechers] — [Thema des Seminars]
+- [Name des Sprechers] — [Thema des Seminars]
 
-## Английский (частично с переводом)
-- [Имя спикера] — [Тема семинара]
-- [Имя спикера] — [Тема семинара]
-- [Имя спикера] — [Тема семинара]
+## Englisch (teilweise mit Übersetzung)
+- [Name des Sprechers] — [Thema des Seminars]
+- [Name des Sprechers] — [Thema des Seminars]
+- [Name des Sprechers] — [Thema des Seminars]

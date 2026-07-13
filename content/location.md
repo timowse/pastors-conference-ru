@@ -1,15 +1,15 @@
-# Место и время
+# Ort & Zeitraum
 
-## Адрес
-[НАЗВАНИЕ МЕСТА ПРОВЕДЕНИЯ]
-[УЛИЦА, ДОМ]
-[ИНДЕКС, ГОРОД]
+## Adresse
+[NAME DES VERANSTALTUNGSORTES]
+[STRASSE, HAUSNUMMER]
+[PLZ, STADT]
 
-## Время проведения
-Начало: [ДЕНЬ НЕДЕЛИ] с [ВРЕМЯ]
-Окончание: [ДЕНЬ НЕДЕЛИ] до [ВРЕМЯ]
+## Zeitraum
+Beginn: [WOCHENTAG] ab [UHRZEIT]
+Ende: [WOCHENTAG] bis [UHRZEIT]
 
-## Как добраться
-- На автомобиле: [ОПИСАНИЕ МАРШРУТА / ПАРКОВКА]
-- На поезде: [БЛИЖАЙШИЙ ВОКЗАЛ И КАК ДОЙТИ]
-- На самолёте: [БЛИЖАЙШИЙ АЭРОПОРТ]
+## Anreise
+- Mit dem Auto: [BESCHREIBUNG DER ANFAHRT / PARKPLÄTZE]
+- Mit der Bahn: [NÄCHSTER BAHNHOF UND FUSSWEG]
+- Mit dem Flugzeug: [NÄCHSTER FLUGHAFEN]

@@ -1,7 +1,7 @@
-# О нас
+# Über uns
 
-[АБЗАЦ 1: Кто организует конференцию — название организации, её миссия и служение.]
+[ABSATZ 1: Wer die Konferenz organisiert — Name der Organisation, ihre Mission und ihr Dienst.]
 
-[АБЗАЦ 2: Для кого предназначена конференция — пасторы, пресвитеры, служители, и какова её цель.]
+[ABSATZ 2: Für wen die Konferenz gedacht ist — Pastoren, Älteste, Mitarbeiter — und was ihr Ziel ist.]
 
-[АБЗАЦ 3: Краткая история конференции или приглашение к участию.]
+[ABSATZ 3: Kurze Geschichte der Konferenz oder Einladung zur Teilnahme.]

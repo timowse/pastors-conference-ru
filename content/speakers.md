@@ -1,33 +1,33 @@
-# Спикеры
+# Sprecher
 
-## [Имя Спикера 1]
-### [Церковь / Служение]
-[Краткая информация о спикере — 1–2 предложения.]
+## [Name Sprecher 1]
+### [Gemeinde / Dienst]
+[Kurze Info zum Sprecher — 1–2 Sätze.]
 
-## [Имя Спикера 2]
-### [Церковь / Служение]
-[Краткая информация о спикере — 1–2 предложения.]
+## [Name Sprecher 2]
+### [Gemeinde / Dienst]
+[Kurze Info zum Sprecher — 1–2 Sätze.]
 
-## [Имя Спикера 3]
-### [Церковь / Служение]
-[Краткая информация о спикере — 1–2 предложения.]
+## [Name Sprecher 3]
+### [Gemeinde / Dienst]
+[Kurze Info zum Sprecher — 1–2 Sätze.]
 
-## [Имя Спикера 4]
-### [Церковь / Служение]
-[Краткая информация о спикере — 1–2 предложения.]
+## [Name Sprecher 4]
+### [Gemeinde / Dienst]
+[Kurze Info zum Sprecher — 1–2 Sätze.]
 
-## [Имя Спикера 5]
-### [Церковь / Служение]
-[Краткая информация о спикере — 1–2 предложения.]
+## [Name Sprecher 5]
+### [Gemeinde / Dienst]
+[Kurze Info zum Sprecher — 1–2 Sätze.]
 
-## [Имя Спикера 6]
-### [Церковь / Служение]
-[Краткая информация о спикере — 1–2 предложения.]
+## [Name Sprecher 6]
+### [Gemeinde / Dienst]
+[Kurze Info zum Sprecher — 1–2 Sätze.]
 
-## [Имя Спикера 7]
-### [Церковь / Служение]
-[Краткая информация о спикере — 1–2 предложения.]
+## [Name Sprecher 7]
+### [Gemeinde / Dienst]
+[Kurze Info zum Sprecher — 1–2 Sätze.]
 
-## [Имя Спикера 8]
-### [Церковь / Служение]
-[Краткая информация о спикере — 1–2 предложения.]
+## [Name Sprecher 8]
+### [Gemeinde / Dienst]
+[Kurze Info zum Sprecher — 1–2 Sätze.]

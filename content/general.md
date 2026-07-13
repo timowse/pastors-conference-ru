@@ -1,11 +1,11 @@
-title: Пастырская конференция
-year: [ГОД]
-tagline: [КРАТКИЙ ДЕВИЗ ИЛИ ТЕМА КОНФЕРЕНЦИИ]
-date: [ДАТЫ ПРОВЕДЕНИЯ, например: 27 – 30 мая]
-venue: [МЕСТО ПРОВЕДЕНИЯ]
-city: [ГОРОД]
-cta_text: Регистрация
+title: Pastorenkonferenz
+year: [JAHR]
+tagline: [KURZES MOTTO ODER THEMA DER KONFERENZ]
+date: [ZEITRAUM, z. B.: 27. – 30. Mai]
+venue: [VERANSTALTUNGSORT]
+city: [STADT]
+cta_text: Anmeldung
 cta_link: #
-email: [EMAIL ДЛЯ СВЯЗИ]
-phone: [ТЕЛЕФОН ДЛЯ СВЯЗИ]
-organizer: [НАЗВАНИЕ ОРГАНИЗАЦИИ]
+email: [KONTAKT-E-MAIL]
+phone: [KONTAKT-TELEFON]
+organizer: [NAME DER ORGANISATION]
