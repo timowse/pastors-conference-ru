@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Пастырская конференция</title>
+  <meta name="description" content="Конференция для пасторов, пресвитеров и служителей церкви.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header" id="top">
+    <nav class="nav">
+      <a class="nav-brand" href="#top" id="nav-brand">Конференция</a>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Меню">☰</button>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#speakers">Спикеры</a></li>
+        <li><a href="#schedule">Программа</a></li>
+        <li><a href="#seminars">Семинары</a></li>
+        <li><a href="#prices">Стоимость</a></li>
+        <li><a href="#location">Место</a></li>
+        <li><a href="#about">О нас</a></li>
+        <li><a href="#" class="nav-cta" id="nav-cta">Регистрация</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-inner">
+      <p class="hero-kicker" id="hero-tagline">…</p>
+      <h1 id="hero-title">Пастырская конференция</h1>
+      <div class="hero-meta">
+        <span class="hero-chip" id="hero-date">…</span>
+        <span class="hero-chip" id="hero-venue">…</span>
+      </div>
+      <a href="#" class="btn btn-primary" id="hero-cta">Регистрация</a>
+    </div>
+  </section>
+
+  <section class="section" id="speakers">
+    <div class="container">
+      <h2 class="section-title">Спикеры</h2>
+      <div class="speakers-grid" id="speakers-grid"></div>
+    </div>
+  </section>
+
+  <section class="section section-alt" id="schedule">
+    <div class="container">
+      <h2 class="section-title">Программа</h2>
+      <div class="schedule-grid" id="schedule-grid"></div>
+    </div>
+  </section>
+
+  <section class="section" id="seminars">
+    <div class="container">
+      <h2 class="section-title">Спикеры семинаров</h2>
+      <div class="seminars-grid" id="seminars-grid"></div>
+    </div>
+  </section>
+
+  <section class="section section-dark" id="prices">
+    <div class="container">
+      <h2 class="section-title">Стоимость</h2>
+      <div class="prices-grid" id="prices-grid"></div>
+      <p class="prices-footnote" id="prices-footnote"></p>
+    </div>
+  </section>
+
+  <section class="section" id="location">
+    <div class="container">
+      <h2 class="section-title">Место и время</h2>
+      <div class="location-grid" id="location-grid"></div>
+    </div>
+  </section>
+
+  <section class="section section-alt" id="gallery">
+    <div class="container">
+      <h2 class="section-title">Фотографии</h2>
+      <div class="gallery-grid" id="gallery-grid"></div>
+    </div>
+  </section>
+
+  <section class="section" id="about">
+    <div class="container container-narrow">
+      <h2 class="section-title">О нас</h2>
+      <div class="about-body" id="about-body"></div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <p class="footer-brand" id="footer-title">Пастырская конференция</p>
+        <p id="footer-organizer"></p>
+      </div>
+      <div>
+        <p><strong>Контакты</strong></p>
+        <p id="footer-email"></p>
+        <p id="footer-phone"></p>
+      </div>
+      <div>
+        <p><strong>Навигация</strong></p>
+        <p><a href="#speakers">Спикеры</a> · <a href="#schedule">Программа</a> · <a href="#prices">Стоимость</a></p>
+        <p><a href="#location">Место</a> · <a href="#about">О нас</a></p>
+      </div>
+    </div>
+    <p class="footer-copy" id="footer-copy"></p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
